@@ -9,3 +9,9 @@ C:\CoderFirst\Backend\CoderFirst.API\obj\Debug\netcoreapp2.0\CoderFirst.API.Asse
 C:\CoderFirst\Backend\CoderFirst.API\obj\Debug\netcoreapp2.0\CoderFirst.API.AssemblyInfo.cs
 C:\CoderFirst\Backend\CoderFirst.API\obj\Debug\netcoreapp2.0\CoderFirst.API.dll
 C:\CoderFirst\Backend\CoderFirst.API\obj\Debug\netcoreapp2.0\CoderFirst.API.pdb
+C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.Common.dll
+C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.DataAccess.dll
+C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.DataAccess.pdb
+C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.Common.pdb
+C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.Services.dll
+C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.Services.pdb

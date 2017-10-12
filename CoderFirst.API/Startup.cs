@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
+using Microsoft.EntityFrameworkCore;
+using CMS.UIServices.Advertisment;
 
 namespace CoderFirst.API
 {
@@ -24,6 +20,13 @@ namespace CoderFirst.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            var sqlConnectionString = "server=localhost;userid=zainab;pwd=hello@123;port=3306;database=coderfirst;sslmode=none;"; // Configuration.GetConnectionString("DataAccessMySqlProvider");
+
+            services.AddDbContext<CoderFirst.DataAccess.BaseContext>(options => options.UseMySql(sqlConnectionString)
+        );
+
+         services.AddScoped<IAdvertismentService, AdvertismentService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
