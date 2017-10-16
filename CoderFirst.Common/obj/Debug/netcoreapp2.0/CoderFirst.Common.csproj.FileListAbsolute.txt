@@ -7,3 +7,12 @@ C:\CoderFirst\Backend\CoderFirst.Common\obj\Debug\netcoreapp2.0\CoderFirst.Commo
 C:\CoderFirst\Backend\CoderFirst.Common\obj\Debug\netcoreapp2.0\CoderFirst.Common.AssemblyInfo.cs
 C:\CoderFirst\Backend\CoderFirst.Common\obj\Debug\netcoreapp2.0\CoderFirst.Common.dll
 C:\CoderFirst\Backend\CoderFirst.Common\obj\Debug\netcoreapp2.0\CoderFirst.Common.pdb
+G:\CoderFirst\back\CoderFirst.Common\bin\Debug\netcoreapp2.0\CoderFirst.Common.deps.json
+G:\CoderFirst\back\CoderFirst.Common\bin\Debug\netcoreapp2.0\CoderFirst.Common.dll
+G:\CoderFirst\back\CoderFirst.Common\bin\Debug\netcoreapp2.0\CoderFirst.Common.pdb
+G:\CoderFirst\back\CoderFirst.Common\obj\Debug\netcoreapp2.0\CoderFirst.Common.csprojResolveAssemblyReference.cache
+G:\CoderFirst\back\CoderFirst.Common\obj\Debug\netcoreapp2.0\CoderFirst.Common.csproj.CoreCompileInputs.cache
+G:\CoderFirst\back\CoderFirst.Common\obj\Debug\netcoreapp2.0\CoderFirst.Common.AssemblyInfoInputs.cache
+G:\CoderFirst\back\CoderFirst.Common\obj\Debug\netcoreapp2.0\CoderFirst.Common.AssemblyInfo.cs
+G:\CoderFirst\back\CoderFirst.Common\obj\Debug\netcoreapp2.0\CoderFirst.Common.dll
+G:\CoderFirst\back\CoderFirst.Common\obj\Debug\netcoreapp2.0\CoderFirst.Common.pdb

@@ -9,3 +9,14 @@ C:\CoderFirst\Backend\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFir
 C:\CoderFirst\Backend\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.Common.pdb
 C:\CoderFirst\Backend\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.dll
 C:\CoderFirst\Backend\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.pdb
+G:\CoderFirst\back\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.BusinessObject.deps.json
+G:\CoderFirst\back\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.BusinessObject.dll
+G:\CoderFirst\back\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.BusinessObject.pdb
+G:\CoderFirst\back\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.Common.dll
+G:\CoderFirst\back\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.Common.pdb
+G:\CoderFirst\back\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.csprojResolveAssemblyReference.cache
+G:\CoderFirst\back\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.csproj.CoreCompileInputs.cache
+G:\CoderFirst\back\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.AssemblyInfoInputs.cache
+G:\CoderFirst\back\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.AssemblyInfo.cs
+G:\CoderFirst\back\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.dll
+G:\CoderFirst\back\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.pdb

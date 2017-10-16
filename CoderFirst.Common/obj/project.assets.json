@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zainab\\.nuget\\packages\\": {},
+    "C:\\Users\\Roshan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\CoderFirst\\Backend\\CoderFirst.Common\\CoderFirst.Common.csproj",
+      "projectUniqueName": "G:\\CoderFirst\\back\\CoderFirst.Common\\CoderFirst.Common.csproj",
       "projectName": "CoderFirst.Common",
-      "projectPath": "C:\\CoderFirst\\Backend\\CoderFirst.Common\\CoderFirst.Common.csproj",
-      "packagesPath": "C:\\Users\\Zainab\\.nuget\\packages\\",
-      "outputPath": "C:\\CoderFirst\\Backend\\CoderFirst.Common\\obj\\",
+      "projectPath": "G:\\CoderFirst\\back\\CoderFirst.Common\\CoderFirst.Common.csproj",
+      "packagesPath": "C:\\Users\\Roshan\\.nuget\\packages\\",
+      "outputPath": "G:\\CoderFirst\\back\\CoderFirst.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Zainab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

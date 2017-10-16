@@ -9,3 +9,14 @@ C:\CoderFirst\Backend\CoderFirst.DataAccess\bin\Debug\netcoreapp2.0\CoderFirst.C
 C:\CoderFirst\Backend\CoderFirst.DataAccess\obj\Debug\netcoreapp2.0\CoderFirst.DataAccess.csprojResolveAssemblyReference.cache
 C:\CoderFirst\Backend\CoderFirst.DataAccess\obj\Debug\netcoreapp2.0\CoderFirst.DataAccess.dll
 C:\CoderFirst\Backend\CoderFirst.DataAccess\obj\Debug\netcoreapp2.0\CoderFirst.DataAccess.pdb
+G:\CoderFirst\back\CoderFirst.DataAccess\bin\Debug\netcoreapp2.0\CoderFirst.DataAccess.deps.json
+G:\CoderFirst\back\CoderFirst.DataAccess\bin\Debug\netcoreapp2.0\CoderFirst.DataAccess.dll
+G:\CoderFirst\back\CoderFirst.DataAccess\bin\Debug\netcoreapp2.0\CoderFirst.DataAccess.pdb
+G:\CoderFirst\back\CoderFirst.DataAccess\bin\Debug\netcoreapp2.0\CoderFirst.Common.dll
+G:\CoderFirst\back\CoderFirst.DataAccess\bin\Debug\netcoreapp2.0\CoderFirst.Common.pdb
+G:\CoderFirst\back\CoderFirst.DataAccess\obj\Debug\netcoreapp2.0\CoderFirst.DataAccess.csprojResolveAssemblyReference.cache
+G:\CoderFirst\back\CoderFirst.DataAccess\obj\Debug\netcoreapp2.0\CoderFirst.DataAccess.csproj.CoreCompileInputs.cache
+G:\CoderFirst\back\CoderFirst.DataAccess\obj\Debug\netcoreapp2.0\CoderFirst.DataAccess.AssemblyInfoInputs.cache
+G:\CoderFirst\back\CoderFirst.DataAccess\obj\Debug\netcoreapp2.0\CoderFirst.DataAccess.AssemblyInfo.cs
+G:\CoderFirst\back\CoderFirst.DataAccess\obj\Debug\netcoreapp2.0\CoderFirst.DataAccess.dll
+G:\CoderFirst\back\CoderFirst.DataAccess\obj\Debug\netcoreapp2.0\CoderFirst.DataAccess.pdb

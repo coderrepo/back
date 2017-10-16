@@ -680,7 +680,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zainab\\.nuget\\packages\\": {},
+    "C:\\Users\\Roshan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -689,17 +689,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\CoderFirst\\Backend\\CoderFirst.BusinessObject\\CoderFirst.BusinessObject.csproj",
+      "projectUniqueName": "G:\\CoderFirst\\back\\CoderFirst.BusinessObject\\CoderFirst.BusinessObject.csproj",
       "projectName": "CoderFirst.BusinessObject",
-      "projectPath": "C:\\CoderFirst\\Backend\\CoderFirst.BusinessObject\\CoderFirst.BusinessObject.csproj",
-      "packagesPath": "C:\\Users\\Zainab\\.nuget\\packages\\",
-      "outputPath": "C:\\CoderFirst\\Backend\\CoderFirst.BusinessObject\\obj\\",
+      "projectPath": "G:\\CoderFirst\\back\\CoderFirst.BusinessObject\\CoderFirst.BusinessObject.csproj",
+      "packagesPath": "C:\\Users\\Roshan\\.nuget\\packages\\",
+      "outputPath": "G:\\CoderFirst\\back\\CoderFirst.BusinessObject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Zainab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -712,8 +712,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\CoderFirst\\Backend\\CoderFirst.Common\\CoderFirst.Common.csproj": {
-              "projectPath": "C:\\CoderFirst\\Backend\\CoderFirst.Common\\CoderFirst.Common.csproj"
+            "G:\\CoderFirst\\back\\CoderFirst.Common\\CoderFirst.Common.csproj": {
+              "projectPath": "G:\\CoderFirst\\back\\CoderFirst.Common\\CoderFirst.Common.csproj"
             }
           }
         }
