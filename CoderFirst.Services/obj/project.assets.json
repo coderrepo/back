@@ -1771,6 +1771,19 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "CoderFirst.BusinessObject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "CoderFirst.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CoderFirst.BusinessObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoderFirst.BusinessObject.dll": {}
+        }
+      },
       "CoderFirst.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -5969,6 +5982,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "CoderFirst.BusinessObject/1.0.0": {
+      "type": "project",
+      "path": "../CoderFirst.BusinessObject/CoderFirst.BusinessObject.csproj",
+      "msbuildProject": "../CoderFirst.BusinessObject/CoderFirst.BusinessObject.csproj"
+    },
     "CoderFirst.Common/1.0.0": {
       "type": "project",
       "path": "../CoderFirst.Common/CoderFirst.Common.csproj",
@@ -5982,6 +6000,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "CoderFirst.BusinessObject >= 1.0.0",
       "CoderFirst.Common >= 1.0.0",
       "CoderFirst.DataAccess >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
@@ -6020,6 +6039,9 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
+            "C:\\CoderFirst\\Backend\\CoderFirst.BusinessObject\\CoderFirst.BusinessObject.csproj": {
+              "projectPath": "C:\\CoderFirst\\Backend\\CoderFirst.BusinessObject\\CoderFirst.BusinessObject.csproj"
+            },
             "C:\\CoderFirst\\Backend\\CoderFirst.Common\\CoderFirst.Common.csproj": {
               "projectPath": "C:\\CoderFirst\\Backend\\CoderFirst.Common\\CoderFirst.Common.csproj"
             },

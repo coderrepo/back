@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using CMS.UIServices.Advertisment;
+using CoderFirst.API.EmailHelper;
 
 namespace CoderFirst.API
 {
@@ -23,10 +24,18 @@ namespace CoderFirst.API
 
             var sqlConnectionString = "server=localhost;userid=zainab;pwd=hello@123;port=3306;database=coderfirst;sslmode=none;"; // Configuration.GetConnectionString("DataAccessMySqlProvider");
 
-            services.AddDbContext<CoderFirst.DataAccess.BaseContext>(options => options.UseMySql(sqlConnectionString)
-        );
+            services.AddDbContext<DataAccess.BaseContext>(options => options.UseMySql(sqlConnectionString));
 
-         services.AddScoped<IAdvertismentService, AdvertismentService>();
+            services.Configure<EmailConfig>(Configuration.GetSection("Email"));
+
+            services.AddTransient<IAdvertismentService, AdvertismentService>();
+            services.AddTransient<IEmailService, EmailService>();
+            services.AddTransient<IMemberService, MemberService>();
+            services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+            {
+                builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+            }));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -38,6 +47,7 @@ namespace CoderFirst.API
             }
 
             app.UseMvc();
+            app.UseCors("MyPolicy");
         }
     }
 }

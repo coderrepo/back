@@ -1,5 +1,6 @@
 ﻿using CoderFirst.DataAccess.Model;
 using CoderFirst.DataAccess.BusinessObject;
+using CoderFirst.DataAccess.Model.App;
 
 public static class AdvertismentMapper
 {

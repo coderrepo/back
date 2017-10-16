@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CoderFirst.BusinessObject\CoderFirst.BusinessObject.csproj" />
     <ProjectReference Include="..\CoderFirst.Common\CoderFirst.Common.csproj" />
     <ProjectReference Include="..\CoderFirst.DataAccess\CoderFirst.DataAccess.csproj" />
   </ItemGroup>

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.0": {
       "CoderFirst.Services/1.0.0": {
         "dependencies": {
+          "CoderFirst.BusinessObject": "1.0.0",
           "CoderFirst.Common": "1.0.0",
           "CoderFirst.DataAccess": "1.0.0"
         },
@@ -1074,6 +1075,14 @@
           "System.Xml.ReaderWriter": "4.0.11"
         }
       },
+      "CoderFirst.BusinessObject/1.0.0": {
+        "dependencies": {
+          "CoderFirst.Common": "1.0.0"
+        },
+        "runtime": {
+          "CoderFirst.BusinessObject.dll": {}
+        }
+      },
       "CoderFirst.Common/1.0.0": {
         "runtime": {
           "CoderFirst.Common.dll": {}
@@ -1788,6 +1797,11 @@
       "sha512": "sha512-Mk2mKmPi0nWaoiYeotq1dgeNK1fqWh61+EK+w4Wu8SWuTYLzpUnschb59bJtGywaPq7SmTuPf44wrXRwbIrukg==",
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
+    },
+    "CoderFirst.BusinessObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "CoderFirst.Common/1.0.0": {
       "type": "project",

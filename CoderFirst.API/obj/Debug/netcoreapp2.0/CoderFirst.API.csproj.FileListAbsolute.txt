@@ -15,3 +15,5 @@ C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.DataAcce
 C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.Common.pdb
 C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.Services.dll
 C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.Services.pdb
+C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.BusinessObject.dll
+C:\CoderFirst\Backend\CoderFirst.API\bin\Debug\netcoreapp2.0\CoderFirst.BusinessObject.pdb

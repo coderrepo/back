@@ -1,0 +1,11 @@
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.csprojResolveAssemblyReference.cache
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.csproj.CoreCompileInputs.cache
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.AssemblyInfoInputs.cache
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.AssemblyInfo.cs
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.BusinessObject.deps.json
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.BusinessObject.dll
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.BusinessObject.pdb
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.Common.dll
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\bin\Debug\netcoreapp2.0\CoderFirst.Common.pdb
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.dll
+C:\CoderFirst\Backend\CoderFirst.BusinessObject\obj\Debug\netcoreapp2.0\CoderFirst.BusinessObject.pdb
